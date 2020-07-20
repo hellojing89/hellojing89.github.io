@@ -5,9 +5,9 @@ permalink: /publication/mtUDA
 date: 2019-2-28
 venue: 'Knowledge-Based Systems'
 paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S0950705119304010'
-citation: 'Jing Zhang, Wanqing Li, Philip Ogunbona (2019). &quot;Unsupervised domain adaptation: A multi-task learning-based method.&quot; <i>Knowledge-Based Systems</i>.'
+citation: 'Jing Zhang, Wanqing Li, Philip Ogunbona (2019). &quot;Unsupervised domain adaptation: A multi-task learning-based method.&quot; <i>Knowledge-Based Systems</i>, 186, 104975.'
 ---
 
 [Download paper here](http://academicpages.github.io/files/mtUDA.pdf)
 
-Recommended citation: Jing Zhang, Wanqing Li, Philip Ogunbona (2019). &quot;Unsupervised domain adaptation: A multi-task learning-based method.&quot; <i>Knowledge-Based Systems</i>.
+Recommended citation: Jing Zhang, Wanqing Li, Philip Ogunbona (2019). &quot;Unsupervised domain adaptation: A multi-task learning-based method.&quot; <i>Knowledge-Based Systems</i>, 186, 104975.
