@@ -8,6 +8,6 @@ paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S00313203163010
 citation: 'Jing Zhang, Wanqing Li, Philip Ogunbona, Pichao Wang, Chang Tang (2016). &quot;RGB-D-based action recognition datasets: A survey.&quot; <i>Pattern Recognition</i>, 60 (2016) 86–105.'
 ---
 
-[Download paper here](http://academicpages.github.io/files/RGBD.pdf)
+[Download paper here](http://hellojing89.github.io/files/RGBD.pdf)
 
 Recommended citation: Jing Zhang, Wanqing Li, Philip Ogunbona, Pichao Wang, Chang Tang (2016). &quot;RGB-D-based action recognition datasets: A survey.&quot; <i>Pattern Recognition</i>, 60 (2016) 86–105.
