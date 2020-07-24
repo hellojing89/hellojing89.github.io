@@ -9,5 +9,6 @@ citation: 'Jing Zhang, Zewei Ding, Wanqing Li, Philip Ogunbona (2018). &quot;Imp
 ---
 
 [Download paper here](http://hellojing89.github.io/files/IWAN.pdf)
+[codes](https://github.com/hellojing89/weightedGANpartialDA)
 
 Recommended citation: Jing Zhang, Zewei Ding, Wanqing Li, Philip Ogunbona (2018). &quot;Importance Weighted Adversarial Nets for Partial Domain Adaptation.&quot; <i>IEEE Conference on Computer Vision and Pattern Recognition</i>, (pp. 8156-8164).
