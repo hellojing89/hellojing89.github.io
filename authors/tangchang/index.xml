@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>TangChang | Jing Zhang (张晶)</title>
+    <link>https://hellojing89.github.io/authors/tangchang/</link>
+      <atom:link href="https://hellojing89.github.io/authors/tangchang/index.xml" rel="self" type="application/rss+xml" />
+    <description>TangChang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2022 Jing Zhang</copyright><lastBuildDate>Sat, 21 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://hellojing89.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>TangChang</title>
+      <link>https://hellojing89.github.io/authors/tangchang/</link>
+    </image>
+    
+    <item>
+      <title>Unsupervised Domain Expansion from Multiple Sources</title>
+      <link>https://hellojing89.github.io/publication/de/</link>
+      <pubDate>Sat, 21 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://hellojing89.github.io/publication/de/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

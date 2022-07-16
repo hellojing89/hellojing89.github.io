@@ -33,13 +33,7 @@
       <link>https://hellojing89.github.io/publication/dsrrtracker/</link>
       <pubDate>Mon, 21 Mar 2022 00:00:00 +0000</pubDate>
       <guid>https://hellojing89.github.io/publication/dsrrtracker/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -83,6 +77,14 @@
     </item>
     
     <item>
+      <title>Few-Shot Domain Expansion for Face Anti-Spoofing</title>
+      <link>https://hellojing89.github.io/publication/antispoofing/</link>
+      <pubDate>Mon, 21 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://hellojing89.github.io/publication/antispoofing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Progressive Modality Cooperation for Multi-Modality Domain Adaptation</title>
       <link>https://hellojing89.github.io/publication/tip2021/</link>
       <pubDate>Sun, 10 Jan 2021 00:00:00 +0000</pubDate>
@@ -96,6 +98,28 @@
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       <guid>https://hellojing89.github.io/publication/tkde2021/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Enhanced Feature Pyramid Network for Semantic Segmentation</title>
+      <link>https://hellojing89.github.io/publication/icpr20/</link>
+      <pubDate>Tue, 22 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://hellojing89.github.io/publication/icpr20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unsupervised Domain Expansion from Multiple Sources</title>
+      <link>https://hellojing89.github.io/publication/de/</link>
+      <pubDate>Sat, 21 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://hellojing89.github.io/publication/de/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -127,6 +151,38 @@
       <link>https://hellojing89.github.io/publication/cvpr17/</link>
       <pubDate>Thu, 22 Jun 2017 00:00:00 +0000</pubDate>
       <guid>https://hellojing89.github.io/publication/cvpr17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Large Scale RGB-D Dataset for Action Recognition</title>
+      <link>https://hellojing89.github.io/publication/icpr16/</link>
+      <pubDate>Thu, 22 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>https://hellojing89.github.io/publication/icpr16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RGB-D-based action recognition datasets: A survey</title>
+      <link>https://hellojing89.github.io/publication/pr2016/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>https://hellojing89.github.io/publication/pr2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Action recognition from depth maps using deep convolutional neural networks</title>
+      <link>https://hellojing89.github.io/publication/thms2015/</link>
+      <pubDate>Thu, 17 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>https://hellojing89.github.io/publication/thms2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ConvNets-Based Action Recognition from Depth Maps through Virtual Cameras and Pseudocoloring</title>
+      <link>https://hellojing89.github.io/publication/acmmm15/</link>
+      <pubDate>Tue, 13 Oct 2015 00:00:00 +0000</pubDate>
+      <guid>https://hellojing89.github.io/publication/acmmm15/</guid>
       <description></description>
     </item>
     

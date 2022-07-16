@@ -61,6 +61,14 @@
     </item>
     
     <item>
+      <title>Enhanced Feature Pyramid Network for Semantic Segmentation</title>
+      <link>https://hellojing89.github.io/publication/icpr20/</link>
+      <pubDate>Tue, 22 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://hellojing89.github.io/publication/icpr20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Importance Weighted Adversarial Nets for Partial Domain Adaptation</title>
       <link>https://hellojing89.github.io/publication/cvpr18/</link>
       <pubDate>Fri, 22 Jun 2018 00:00:00 +0000</pubDate>
@@ -73,6 +81,22 @@
       <link>https://hellojing89.github.io/publication/cvpr17/</link>
       <pubDate>Thu, 22 Jun 2017 00:00:00 +0000</pubDate>
       <guid>https://hellojing89.github.io/publication/cvpr17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Large Scale RGB-D Dataset for Action Recognition</title>
+      <link>https://hellojing89.github.io/publication/icpr16/</link>
+      <pubDate>Thu, 22 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>https://hellojing89.github.io/publication/icpr16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ConvNets-Based Action Recognition from Depth Maps through Virtual Cameras and Pseudocoloring</title>
+      <link>https://hellojing89.github.io/publication/acmmm15/</link>
+      <pubDate>Tue, 13 Oct 2015 00:00:00 +0000</pubDate>
+      <guid>https://hellojing89.github.io/publication/acmmm15/</guid>
       <description></description>
     </item>
     
