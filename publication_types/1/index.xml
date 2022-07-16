@@ -5,7 +5,7 @@
     <link>https://hellojing89.github.io/publication_types/1/</link>
       <atom:link href="https://hellojing89.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2022 Jing Zhang</copyright><lastBuildDate>Mon, 01 Jul 2013 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2022 Jing Zhang</copyright><lastBuildDate>Wed, 22 Jun 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://hellojing89.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>1</title>
@@ -13,22 +13,67 @@
     </image>
     
     <item>
-      <title>An example conference paper</title>
-      <link>https://hellojing89.github.io/publication/conference-paper/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://hellojing89.github.io/publication/conference-paper/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <title>3DJCG: A Unified Framework for Joint Dense Captioning and Visual Grounding on 3D Point Clouds</title>
+      <link>https://hellojing89.github.io/publication/cvpr22/</link>
+      <pubDate>Wed, 22 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://hellojing89.github.io/publication/cvpr22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MMA-Net: A MultiModal-Attention-Based Deep Neural Network for Web Services Classification</title>
+      <link>https://hellojing89.github.io/publication/icsoc21/</link>
+      <pubDate>Thu, 18 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://hellojing89.github.io/publication/icsoc21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ServeNet-LT: A Normalized Multi-head Deep Neural Network for Long-tailed Web Services Classification</title>
+      <link>https://hellojing89.github.io/publication/icws21-longtail/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://hellojing89.github.io/publication/icws21-longtail/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transfer Learning for Web Services Classification</title>
+      <link>https://hellojing89.github.io/publication/icws21-transfer/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://hellojing89.github.io/publication/icws21-transfer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Source Data-free Unsupervised Domain Adaptation for Semantic Segmentation</title>
+      <link>https://hellojing89.github.io/publication/acmmm21/</link>
+      <pubDate>Wed, 20 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://hellojing89.github.io/publication/acmmm21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Importance Weighted Adversarial Nets for Partial Domain Adaptation</title>
+      <link>https://hellojing89.github.io/publication/cvpr18/</link>
+      <pubDate>Fri, 22 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>https://hellojing89.github.io/publication/cvpr18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joint Geometrical and Statistical Alignment for Visual Domain Adaptation</title>
+      <link>https://hellojing89.github.io/publication/cvpr17/</link>
+      <pubDate>Thu, 22 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>https://hellojing89.github.io/publication/cvpr17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improving RGB-D Point Cloud Registration by Learning Multi-scale Local Linear Transformation</title>
+      <link>https://hellojing89.github.io/publication/eccv22/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://hellojing89.github.io/publication/eccv22/</guid>
+      <description></description>
     </item>
     
   </channel>

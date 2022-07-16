@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xiaoliang Huo | Jing Zhang (张晶)</title>
+    <link>https://hellojing89.github.io/authors/xiaoliang-huo/</link>
+      <atom:link href="https://hellojing89.github.io/authors/xiaoliang-huo/index.xml" rel="self" type="application/rss+xml" />
+    <description>Xiaoliang Huo</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2022 Jing Zhang</copyright>
+    <image>
+      <url>https://hellojing89.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Xiaoliang Huo</title>
+      <link>https://hellojing89.github.io/authors/xiaoliang-huo/</link>
+    </image>
+    
+    <item>
+      <title>Improving RGB-D Point Cloud Registration by Learning Multi-scale Local Linear Transformation</title>
+      <link>https://hellojing89.github.io/publication/eccv22/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://hellojing89.github.io/publication/eccv22/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

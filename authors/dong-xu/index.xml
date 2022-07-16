@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dong Xu | Jing Zhang (张晶)</title>
+    <link>https://hellojing89.github.io/authors/dong-xu/</link>
+      <atom:link href="https://hellojing89.github.io/authors/dong-xu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Dong Xu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2022 Jing Zhang</copyright><lastBuildDate>Wed, 22 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://hellojing89.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Dong Xu</title>
+      <link>https://hellojing89.github.io/authors/dong-xu/</link>
+    </image>
+    
+    <item>
+      <title>3DJCG: A Unified Framework for Joint Dense Captioning and Visual Grounding on 3D Point Clouds</title>
+      <link>https://hellojing89.github.io/publication/cvpr22/</link>
+      <pubDate>Wed, 22 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://hellojing89.github.io/publication/cvpr22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>VDM-DA: Virtual Domain Modeling for Source Data-Free Domain Adaptation</title>
+      <link>https://hellojing89.github.io/publication/tcsvt2021/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://hellojing89.github.io/publication/tcsvt2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Progressive Modality Cooperation for Multi-Modality Domain Adaptation</title>
+      <link>https://hellojing89.github.io/publication/tip2021/</link>
+      <pubDate>Sun, 10 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://hellojing89.github.io/publication/tip2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent Advances in Transfer Learning for Cross-Dataset Visual Recognition: A Problem-Oriented Perspective</title>
+      <link>https://hellojing89.github.io/publication/csur2019/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://hellojing89.github.io/publication/csur2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improving RGB-D Point Cloud Registration by Learning Multi-scale Local Linear Transformation</title>
+      <link>https://hellojing89.github.io/publication/eccv22/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://hellojing89.github.io/publication/eccv22/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

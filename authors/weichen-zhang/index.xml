@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Weichen Zhang | Jing Zhang (张晶)</title>
+    <link>https://hellojing89.github.io/authors/weichen-zhang/</link>
+      <atom:link href="https://hellojing89.github.io/authors/weichen-zhang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Weichen Zhang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2022 Jing Zhang</copyright><lastBuildDate>Sun, 10 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://hellojing89.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Weichen Zhang</title>
+      <link>https://hellojing89.github.io/authors/weichen-zhang/</link>
+    </image>
+    
+    <item>
+      <title>Progressive Modality Cooperation for Multi-Modality Domain Adaptation</title>
+      <link>https://hellojing89.github.io/publication/tip2021/</link>
+      <pubDate>Sun, 10 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://hellojing89.github.io/publication/tip2021/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

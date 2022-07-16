@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yilong Yang | Jing Zhang (张晶)</title>
+    <link>https://hellojing89.github.io/authors/yilong-yang/</link>
+      <atom:link href="https://hellojing89.github.io/authors/yilong-yang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yilong Yang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2022 Jing Zhang</copyright><lastBuildDate>Thu, 18 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://hellojing89.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Yilong Yang</title>
+      <link>https://hellojing89.github.io/authors/yilong-yang/</link>
+    </image>
+    
+    <item>
+      <title>MMA-Net: A MultiModal-Attention-Based Deep Neural Network for Web Services Classification</title>
+      <link>https://hellojing89.github.io/publication/icsoc21/</link>
+      <pubDate>Thu, 18 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://hellojing89.github.io/publication/icsoc21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ServeNet-LT: A Normalized Multi-head Deep Neural Network for Long-tailed Web Services Classification</title>
+      <link>https://hellojing89.github.io/publication/icws21-longtail/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://hellojing89.github.io/publication/icws21-longtail/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transfer Learning for Web Services Classification</title>
+      <link>https://hellojing89.github.io/publication/icws21-transfer/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://hellojing89.github.io/publication/icws21-transfer/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

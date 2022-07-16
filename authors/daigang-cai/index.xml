@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Daigang Cai | Jing Zhang (张晶)</title>
+    <link>https://hellojing89.github.io/authors/daigang-cai/</link>
+      <atom:link href="https://hellojing89.github.io/authors/daigang-cai/index.xml" rel="self" type="application/rss+xml" />
+    <description>Daigang Cai</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2022 Jing Zhang</copyright><lastBuildDate>Wed, 22 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://hellojing89.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Daigang Cai</title>
+      <link>https://hellojing89.github.io/authors/daigang-cai/</link>
+    </image>
+    
+    <item>
+      <title>3DJCG: A Unified Framework for Joint Dense Captioning and Visual Grounding on 3D Point Clouds</title>
+      <link>https://hellojing89.github.io/publication/cvpr22/</link>
+      <pubDate>Wed, 22 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://hellojing89.github.io/publication/cvpr22/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
