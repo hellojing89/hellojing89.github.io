@@ -1,77 +1,75 @@
 ---
 # Display name
-title: Nelson Bighetti
+name: Jing Zhang (张晶)
+
+# Username (this should match the folder name)
+authors:
+- admin
 
 # Is this the primary user of the site?
 superuser: true
 
-# Role/position/tagline
-role: Professor of Artificial Intelligence
+# Role/position
+role: Associate Professor
 
-# Organizations/Affiliations to show in About widget
+# Organizations/Affiliations
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+- name: School of Software, Beihang University
+  url: http://soft.buaa.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-# Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+- Artificial Intelligence
+- Machine Learning
+- Computer Vision
 
-# Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+  - course: PhD in Computing and Information Technology
+    institution: University of Wollongong
+    year: 2019
+  - course: MEng in Information and Communication Engineering
+    institution: Tianjin University
+    year: 2014
+
 
 # Social/Academic Networking
-# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
+# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
+#   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
-
-# Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
-# and uncomment the lines below.
+- icon: envelope
+  icon_pack: fas
+  link: 'mailto:zhang_jing@buaa.edu.cn'  # For a direct email link, use "mailto:test@example.org".
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=XtwOoQgAAAAJ&hl
+- icon: github
+  icon_pack: fab
+  link: https://github.com/hellojing89
+# Link to a PDF of your resume/CV from the About widget.
+# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
 #   icon_pack: ai
-#   link: uploads/resume.pdf
+#   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: "zhang_jing@buaa.edu.cn"
 
-# Highlight the author in author lists? (true/false)
-highlight_name: true
+# Organizational groups that you belong to (for People widget)
+#   Set this to `[]` or comment out if you are not using People widget.
+user_groups:
+- Researchers
+- Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Jing Zhang is an Associate Professor at [School of Software in Beihang University (BUAA)](http://soft.buaa.edu.cn/). Before she joined Beihang, she received the Ph.D. degree at the Advanced Multimedia Research Laboratory in the [University of Wollongong, Australia](http://uow.edu.au/), under the supervision of [A/Prof. Wanqing Li](https://sites.google.com/view/wanqingli/home-news) and [Prof. Philip Ogunbona](https://documents.uow.edu.au/~philipo/). 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+My research is on computer vision and machine learning, with the special interests in transfer learning, domain adaptation, few-shot learning, continual learning, and their applications in various computer vision tasks, such as visual recognition, semantic segementation, object detection, and 3D vision.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+I am looking for self-motivated students for Master degree, please drop me an email if you are interested
+
+
+
