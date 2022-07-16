@@ -43,6 +43,11 @@
   </url>
   
   <url>
+    <loc>https://hellojing89.github.io/publication/eccv22/</loc>
+    <lastmod>2022-06-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://hellojing89.github.io/</loc>
     <lastmod>2022-06-22T00:00:00+00:00</lastmod>
   </url>
@@ -69,6 +74,21 @@
   
   <url>
     <loc>https://hellojing89.github.io/publication/</loc>
+    <lastmod>2022-06-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hellojing89.github.io/authors/xiaoliang-huo/</loc>
+    <lastmod>2022-06-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hellojing89.github.io/authors/zhenghao-chen/</loc>
+    <lastmod>2022-06-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hellojing89.github.io/authors/ziming-wang/</loc>
     <lastmod>2022-06-22T00:00:00+00:00</lastmod>
   </url>
   
@@ -328,22 +348,6 @@
   
   <url>
     <loc>https://hellojing89.github.io/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://hellojing89.github.io/publication/eccv22/</loc>
-  </url>
-  
-  <url>
-    <loc>https://hellojing89.github.io/authors/xiaoliang-huo/</loc>
-  </url>
-  
-  <url>
-    <loc>https://hellojing89.github.io/authors/zhenghao-chen/</loc>
-  </url>
-  
-  <url>
-    <loc>https://hellojing89.github.io/authors/ziming-wang/</loc>
   </url>
   
 </urlset>
