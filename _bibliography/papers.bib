@@ -13,6 +13,38 @@ keywords = {Feature extraction,Image reconstruction,Point cloud compression,Shap
 title = {{3D Reconstruction from a Single Sketch via View-dependent Depth Sampling}},
 year = {2024}
 }
+@inproceedings{Wu2024,
+abstract = {NeRF (Neural Radiance Fields) has demonstrated tremendous potential in novel view synthesis and 3D reconstruction, but its performance is sensitive to input image quality, which struggles to achieve high-fidelity rendering when provided with low-quality sparse input viewpoints. Previous methods for NeRF restoration are tailored for specific degradation type, ignoring the generality of restoration. To overcome this limitation, we propose a generic radiance fields restoration pipeline, named RaFE, which applies to various types of degradations, such as low resolution, blurriness, noise, compression artifacts, or their combinations. Our approach leverages the success of off-the-shelf 2D restoration methods to recover the multi-view images individually. Instead of reconstructing a blurred NeRF by averaging inconsistencies, we introduce a novel approach using Generative Adversarial Networks (GANs) for NeRF generation to better accommodate the geometric and appearance inconsistencies present in the multi-view images. Specifically, we adopt a two-level tri-plane architecture, where the coarse level remains fixed to represent the low-quality NeRF, and a fine-level residual tri-plane to be added to the coarse level is modeled as a distribution with GAN to capture potential variations in restoration. We validate RaFE on both synthetic and real cases for various restoration tasks, demonstrating superior performance in both quantitative and qualitative evaluations, surpassing other 3D restoration methods specific to single task. Please see our project website https://zkaiwu.github.io/RaFE-Project/.},
+archivePrefix = {arXiv},
+arxivId = {2404.03654},
+author = {Wu, Zhongkai and Wan, Ziyu and Zhang, Jing and Liao, Jing and Xu, Dong},
+booktitle = {European Conference on Computer Vision},
+eprint = {2404.03654},
+file = {:Users/jingzhang/Documents/buaa/基金项目/个人成果/个人成果原文/2024_RaFE-Generative Radiance Fields Restoration.pdf:pdf},
+keywords = {3d restoration,generative model,neural radiance fields,neural rendering},
+title = {{RaFE: Generative Radiance Fields Restoration}},
+url = {http://arxiv.org/abs/2404.03654},
+year = {2024}
+}
+
+@inproceedings{Li2024,
+abstract = {Panoptic narrative grounding (PNG), whose core target is fine-grained image-text alignment, requires a panoptic segmentation of referred objects given a narrative caption. Previous discriminative methods achieve only weak or coarse-grained alignment by panoptic segmentation pretraining or CLIP model adaptation. Given the recent progress of text-to-image Diffusion models, several works have shown their capability to achieve fine-grained image-text alignment through cross-attention maps and improved general segmentation performance. However, the direct use of phrase features as static prompts to apply frozen Diffusion models to the PNG task still suffers from a large task gap and insufficient vision-language interaction, yielding inferior performance. Therefore, we propose an Extractive-Injective Phrase Adapter (EIPA) bypass within the Diffusion UNet to dynamically update phrase prompts with image features and inject the multimodal cues back, which leverages the fine-grained image-text alignment capability of Diffusion models more sufficiently. In addition, we also design a Multi-Level Mutual Aggregation (MLMA) module to reciprocally fuse multi-level image and phrase features for segmentation refinement. Extensive experiments on the PNG benchmark show that our method achieves new state-of-the-art performance.},
+archivePrefix = {arXiv},
+arxivId = {2409.08251},
+author = {Li, Hongyu and Hui, Tianrui and Ding, Zihan and Zhang, Jing and Ma, Bin and Wei, Xiaoming and Han, Jizhong and Liu, Si},
+booktitle = {Proceedings of the 32nd ACM International Conference on Multimedia (MM '24)},
+doi = {10.1145/3664647.3686836},
+eprint = {2409.08251},
+file = {:Users/jingzhang/Library/Application Support/Mendeley Desktop/Downloaded/Li et al. - 2024 - Dynamic Prompting of Frozen Text-to-Image Diffusion Models for Panoptic Narrative Grounding.pdf:pdf},
+isbn = {9798400706868},
+keywords = {Diffusion Models,Dy,Panoptic Narrative Grounding,acm reference format,diffusion models,dynamic prompt-,ing,multi-level aggregation,panoptic narrative grounding,phrase adapter},
+number = {1},
+publisher = {Association for Computing Machinery},
+title = {{Dynamic Prompting of Frozen Text-to-Image Diffusion Models for Panoptic Narrative Grounding}},
+url = {http://arxiv.org/abs/2409.08251},
+volume = {1},
+year = {2024}
+}
 @article{Tang2024,
 abstract = {Deep learning models have the ability to extract rich knowledge from large-scale datasets. However, the sharing of data has become increasingly challenging due to concerns regarding data copyright and privacy. Consequently, this hampers the effective transfer of knowledge from existing data to novel downstream tasks and concepts. Zero-shot learning (ZSL) approaches aim to recognize new classes by transferring semantic knowledge learned from base classes. However, traditional generative ZSL methods often require access to real images from base classes and rely on manually annotated attributes, which presents challenges in terms of data restrictions and model scalability. To this end, this paper tackles a challenging and practical problem dubbed as data-free zero-shot learning (DFZSL), where only the CLIP-based base classes data pre-trained classifier is available for zero-shot classification. Specifically, we propose a generic framework for DFZSL, which consists of three main components. Firstly, to recover the virtual features of the base data, we model the CLIP features of base class images as samples from a von Mises-Fisher (vMF) distribution based on the pre-trained classifier. Secondly, we leverage the text features of CLIP as low-cost semantic information and propose a feature-language prompt tuning (FLPT) method to further align the virtual image features and textual features. Thirdly, we train a conditional generative model using the well-aligned virtual image features and corresponding semantic text features, enabling the generation of new classes features and achieve better zero-shot generalization. Our framework has been evaluated on five commonly used benchmarks for generalized ZSL, as well as 11 benchmarks for the base-to-new ZSL. The results demonstrate the superiority and effectiveness of our approach. Our code is available in https://github.com/ylong4/DFZSL.},
 author = {Tang, Bowen and Zhang, Jing and Yan, Long and Yu, Qian and Sheng, Lu and Xu, Dong},
@@ -27,24 +59,7 @@ title = {{Data-Free Generalized Zero-Shot Learning}},
 volume = {38},
 year = {2024}
 }
-@book{Li2024,
-abstract = {Panoptic narrative grounding (PNG), whose core target is fine-grained image-text alignment, requires a panoptic segmentation of referred objects given a narrative caption. Previous discriminative methods achieve only weak or coarse-grained alignment by panoptic segmentation pretraining or CLIP model adaptation. Given the recent progress of text-to-image Diffusion models, several works have shown their capability to achieve fine-grained image-text alignment through cross-attention maps and improved general segmentation performance. However, the direct use of phrase features as static prompts to apply frozen Diffusion models to the PNG task still suffers from a large task gap and insufficient vision-language interaction, yielding inferior performance. Therefore, we propose an Extractive-Injective Phrase Adapter (EIPA) bypass within the Diffusion UNet to dynamically update phrase prompts with image features and inject the multimodal cues back, which leverages the fine-grained image-text alignment capability of Diffusion models more sufficiently. In addition, we also design a Multi-Level Mutual Aggregation (MLMA) module to reciprocally fuse multi-level image and phrase features for segmentation refinement. Extensive experiments on the PNG benchmark show that our method achieves new state-of-the-art performance.},
-archivePrefix = {arXiv},
-arxivId = {2409.08251},
-author = {Li, Hongyu and Hui, Tianrui and Ding, Zihan and Zhang, Jing and Ma, Bin and Wei, Xiaoming and Han, Jizhong and Liu, Si},
-booktitle = {Proceedings of the 32nd ACM International Conference on Multimedia (MM '24), October 28-November 1, 2024, Melbourne, VIC, Australia},
-doi = {10.1145/3664647.3686836},
-eprint = {2409.08251},
-file = {:Users/jingzhang/Library/Application Support/Mendeley Desktop/Downloaded/Li et al. - 2024 - Dynamic Prompting of Frozen Text-to-Image Diffusion Models for Panoptic Narrative Grounding.pdf:pdf},
-isbn = {9798400706868},
-keywords = {Panoptic Narrative Grounding, Diffusion Models, Dy,acm reference format,diffusion models,dynamic prompt-,ing,multi-level aggregation,panoptic narrative grounding,phrase adapter},
-number = {1},
-publisher = {Association for Computing Machinery},
-title = {{Dynamic Prompting of Frozen Text-to-Image Diffusion Models for Panoptic Narrative Grounding}},
-url = {http://arxiv.org/abs/2409.08251},
-volume = {1},
-year = {2024}
-}
+
 @inproceedings{Li2024a,
 abstract = {3D point cloud semantic segmentation has a wide range of applications. Recently, weakly supervised point cloud segmentation methods have been proposed, aiming to alleviate the expensive and laborious manual annotation process by leveraging scene-level labels. However, these methods have not effectively exploited the rich geometric information (such as shape and scale) and appearance information (such as color and texture) present in RGB-D scans. Furthermore, current approaches fail to fully leverage the point affinity that can be inferred from the feature extraction network, which is crucial for learning from weak scene-level labels. Additionally, previous work overlooks the detrimental effects of the long-tailed distribution of point cloud data in weakly supervised 3D semantic segmentation. To this end, this paper proposes a simple yet effective scene-level weakly supervised point cloud segmentation method with a newly introduced multi-modality point affinity inference module. The point affinity proposed in this paper is characterized by features from multiple modalities (e.g., point cloud and RGB), and is further refined by normalizing the classifier weights to alleviate the detrimental effects of long-tailed distribution without the need of the prior of category distribution. Extensive experiments on the ScanNet and S3DIS benchmarks verify the effectiveness of our proposed method, which outperforms the state-of-the-art by ∼ 4% to ∼ 6% mIoU. Codes are released at https://github.com/Sunny599/AAAI24-3DWSSG-MMA.},
 author = {Li, Xiawei and Xu, Qingyuan and Zhang, Jing and Zhang, Tianyi and Yu, Qian and Sheng, Lu and Xu, Dong},
@@ -56,13 +71,6 @@ number = {4},
 pages = {3216--3224},
 title = {{Multi-Modality Affinity Inference for Weakly Supervised 3D Semantic Segmentation}},
 volume = {38},
-year = {2024}
-}
-@article{Zhang2024,
-author = {Zhang, Hong and Univerisy, Beihang},
-doi = {10.1145/3700443},
-file = {:Users/jingzhang/Documents/buaa/基金项目/个人成果/个人成果原文/2024_P2FTrack- Multi-object tracking with motion Prior and Feature Posterior.pdf:pdf},
-title = {{P2FTrack : Multi-object tracking with motion Prior and Feature Posterior}},
 year = {2024}
 }
 @inproceedings{Xue2024,
@@ -81,19 +89,22 @@ title = {{Question Calibration and Multi-Hop Modeling for Temporal Question Answ
 volume = {38},
 year = {2024}
 }
-@inproceedings{Wu2024,
-abstract = {NeRF (Neural Radiance Fields) has demonstrated tremendous potential in novel view synthesis and 3D reconstruction, but its performance is sensitive to input image quality, which struggles to achieve high-fidelity rendering when provided with low-quality sparse input viewpoints. Previous methods for NeRF restoration are tailored for specific degradation type, ignoring the generality of restoration. To overcome this limitation, we propose a generic radiance fields restoration pipeline, named RaFE, which applies to various types of degradations, such as low resolution, blurriness, noise, compression artifacts, or their combinations. Our approach leverages the success of off-the-shelf 2D restoration methods to recover the multi-view images individually. Instead of reconstructing a blurred NeRF by averaging inconsistencies, we introduce a novel approach using Generative Adversarial Networks (GANs) for NeRF generation to better accommodate the geometric and appearance inconsistencies present in the multi-view images. Specifically, we adopt a two-level tri-plane architecture, where the coarse level remains fixed to represent the low-quality NeRF, and a fine-level residual tri-plane to be added to the coarse level is modeled as a distribution with GAN to capture potential variations in restoration. We validate RaFE on both synthetic and real cases for various restoration tasks, demonstrating superior performance in both quantitative and qualitative evaluations, surpassing other 3D restoration methods specific to single task. Please see our project website https://zkaiwu.github.io/RaFE-Project/.},
-archivePrefix = {arXiv},
-arxivId = {2404.03654},
-author = {Wu, Zhongkai and Wan, Ziyu and Zhang, Jing and Liao, Jing and Xu, Dong},
-booktitle = {European Conference on Computer Vision},
-eprint = {2404.03654},
-file = {:Users/jingzhang/Documents/buaa/基金项目/个人成果/个人成果原文/2024_RaFE-Generative Radiance Fields Restoration.pdf:pdf},
-keywords = {3d restoration,generative model,neural radiance fields,neural rendering},
-title = {{RaFE: Generative Radiance Fields Restoration}},
-url = {http://arxiv.org/abs/2404.03654},
-year = {2024}
+@article{10.1145/3700443,
+author = {Zhang, Hong and Wan, Jiaxu and Zhang, Jing and Yuan, Ding and Li, XuLiang and Yang, Yifan},
+title = {P2FTrack: Multi-object tracking with motion Prior and Feature Posterior},
+year = {2024},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+issn = {1551-6857},
+url = {https://doi.org/10.1145/3700443},
+doi = {10.1145/3700443},
+abstract = {Multiple object tracking (MOT) has emerged as a crucial component of the rapidly developing computer vision. However, existing multi-object tracking methods often overlook the relationship between features and motion, hindering the ability to strike a performance balance between coupled motion and complex scenes. In this work, we propose a novel end-to-end multi-object tracking method that integrates motion and feature information. To achieve this, we introduce a motion prior generator that transforms motion information into attention masks. Additionally, we leverage prior-posterior fusion multi-head attention to combine the motion-derived priors and attention-based posteriors. Our proposed method is extensively evaluated on MOT17 and DanceTrack datasets through comprehensive experiments and ablation studies, demonstrating state-of-the-art performance in the feature-based method with reasonable speed.},
+note = {Just Accepted},
+journal = {ACM Trans. Multimedia Comput. Commun. Appl.},
+month = oct,
+keywords = {multi-object tracking, prior-posterior fusion, transformer}
 }
+
 @inproceedings{Xing2024,
 abstract = {Recently, text-guided scalable vector graphics (SVGs) synthesis has shown promise in domains such as iconography and sketch. However, existing text-to-SVG generation methods lack editability and struggle with visual quality and result diversity. To address these limitations, we propose a novel text-guided vector graphics synthesis method called SVGDreamer. SVGDreamer incorporates a semantic-driven image vectorization (SIVE) process that enables the decomposition of synthesis into foreground objects and background, thereby enhancing editability. Specifically, the SIVE process introduces attention-based primitive control and an attention-mask loss function for effective control and manipulation of individual elements. Additionally, we propose a Vectorized Particle-based Score Distillation (VPSD) approach to address issues of shape over-smoothing, color over-saturation, limited diversity, and slow convergence of the existing text-to-SVG generation methods by modeling SVGs as distributions of control points and colors. Furthermore, VPSD leverages a reward model to re-weight vector particles, which improves aesthetic appeal and accelerates convergence. Extensive experiments are conducted to validate the effectiveness of SVGDreamer, demonstrating its superiority over baseline methods in terms of editability, visual quality, and diversity. Project page: \href{https://ximinng.github.io/SVGDreamer-project/}{https://ximinng.github.io/SVGDreamer-project/}},
 archivePrefix = {arXiv},
