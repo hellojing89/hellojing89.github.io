@@ -11,7 +11,8 @@ issn = {19393539},
 journal = {IEEE Transactions on Pattern Analysis and Machine Intelligence},
 keywords = {Feature extraction,Image reconstruction,Point cloud compression,Shape,Solid modeling,Surface reconstruction,Three-dimensional displays},
 title = {{3D Reconstruction from a Single Sketch via View-dependent Depth Sampling}},
-year = {2024}
+year = {2024},
+selected = {true}
 }
 @inproceedings{Wu2024,
 abstract = {NeRF (Neural Radiance Fields) has demonstrated tremendous potential in novel view synthesis and 3D reconstruction, but its performance is sensitive to input image quality, which struggles to achieve high-fidelity rendering when provided with low-quality sparse input viewpoints. Previous methods for NeRF restoration are tailored for specific degradation type, ignoring the generality of restoration. To overcome this limitation, we propose a generic radiance fields restoration pipeline, named RaFE, which applies to various types of degradations, such as low resolution, blurriness, noise, compression artifacts, or their combinations. Our approach leverages the success of off-the-shelf 2D restoration methods to recover the multi-view images individually. Instead of reconstructing a blurred NeRF by averaging inconsistencies, we introduce a novel approach using Generative Adversarial Networks (GANs) for NeRF generation to better accommodate the geometric and appearance inconsistencies present in the multi-view images. Specifically, we adopt a two-level tri-plane architecture, where the coarse level remains fixed to represent the low-quality NeRF, and a fine-level residual tri-plane to be added to the coarse level is modeled as a distribution with GAN to capture potential variations in restoration. We validate RaFE on both synthetic and real cases for various restoration tasks, demonstrating superior performance in both quantitative and qualitative evaluations, surpassing other 3D restoration methods specific to single task. Please see our project website https://zkaiwu.github.io/RaFE-Project/.},
@@ -24,7 +25,8 @@ file = {:Users/jingzhang/Documents/buaa/基金项目/个人成果/个人成果�
 keywords = {3d restoration,generative model,neural radiance fields,neural rendering},
 title = {{RaFE: Generative Radiance Fields Restoration}},
 url = {http://arxiv.org/abs/2404.03654},
-year = {2024}
+year = {2024},
+selected = {true}
 }
 
 @inproceedings{Li2024,
@@ -43,7 +45,8 @@ publisher = {Association for Computing Machinery},
 title = {{Dynamic Prompting of Frozen Text-to-Image Diffusion Models for Panoptic Narrative Grounding}},
 url = {http://arxiv.org/abs/2409.08251},
 volume = {1},
-year = {2024}
+year = {2024},
+selected = {true}
 }
 @article{Tang2024,
 abstract = {Deep learning models have the ability to extract rich knowledge from large-scale datasets. However, the sharing of data has become increasingly challenging due to concerns regarding data copyright and privacy. Consequently, this hampers the effective transfer of knowledge from existing data to novel downstream tasks and concepts. Zero-shot learning (ZSL) approaches aim to recognize new classes by transferring semantic knowledge learned from base classes. However, traditional generative ZSL methods often require access to real images from base classes and rely on manually annotated attributes, which presents challenges in terms of data restrictions and model scalability. To this end, this paper tackles a challenging and practical problem dubbed as data-free zero-shot learning (DFZSL), where only the CLIP-based base classes data pre-trained classifier is available for zero-shot classification. Specifically, we propose a generic framework for DFZSL, which consists of three main components. Firstly, to recover the virtual features of the base data, we model the CLIP features of base class images as samples from a von Mises-Fisher (vMF) distribution based on the pre-trained classifier. Secondly, we leverage the text features of CLIP as low-cost semantic information and propose a feature-language prompt tuning (FLPT) method to further align the virtual image features and textual features. Thirdly, we train a conditional generative model using the well-aligned virtual image features and corresponding semantic text features, enabling the generation of new classes features and achieve better zero-shot generalization. Our framework has been evaluated on five commonly used benchmarks for generalized ZSL, as well as 11 benchmarks for the base-to-new ZSL. The results demonstrate the superiority and effectiveness of our approach. Our code is available in https://github.com/ylong4/DFZSL.},
@@ -57,7 +60,8 @@ number = {6},
 pages = {5108--5117},
 title = {{Data-Free Generalized Zero-Shot Learning}},
 volume = {38},
-year = {2024}
+year = {2024},
+selected = {true}
 }
 
 @inproceedings{Li2024a,
@@ -71,7 +75,8 @@ number = {4},
 pages = {3216--3224},
 title = {{Multi-Modality Affinity Inference for Weakly Supervised 3D Semantic Segmentation}},
 volume = {38},
-year = {2024}
+year = {2024},
+selected = {true}
 }
 @inproceedings{Xue2024,
 abstract = {Many models that leverage knowledge graphs (KGs) have recently demonstrated remarkable success in question answering (QA) tasks. In the real world, many facts contained in KGs are time-constrained thus temporal KGQA has received increasing attention. Despite the fruitful efforts of previous models in temporal KGQA, they still have several limitations. (I) They adopt pre-trained language models (PLMs) to obtain question representations, while PLMs tend to focus on entity information and ignore entity transfer caused by temporal constraints, and finally fail to learn specific temporal representations of entities. (II) They neither emphasize the graph structure between entities nor explicitly model the multi-hop relationship in the graph, which will make it difficult to solve complex multi-hop question answering. To alleviate this problem, we propose a novel Question Calibration and Multi-Hop Modeling (QC-MHM) approach. Specifically, We first calibrate the question representation by fusing the question and the time-constrained concepts in KG. Then, we construct the GNN layer to complete multi-hop message passing. Finally, the question representation is combined with the embedding output by the GNN to generate the final prediction. Empirical results verify that the proposed model achieves better performance than the state-of-the-art models in the benchmark dataset. Notably, the Hits@1 and Hits@10 results of QC-MHM on the CronQuestions dataset's complex questions are absolutely improved by 5.1% and 1.2% compared to the best-performing baseline. Moreover, QC-MHM can generate interpretable and trustworthy predictions.},
