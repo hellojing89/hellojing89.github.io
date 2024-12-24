@@ -9,9 +9,9 @@ profile:
   image: jing.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Associate Professor</p>
     <p>C810 New Main Building</p>
-    <p>37 Xueyuan Rd. Haidian District, Beijing, China</p>
+    <p>37 Xueyuan Rd. Haidian District</p>
+    <p>Beijing, China</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
