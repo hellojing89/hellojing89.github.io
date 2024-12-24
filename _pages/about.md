@@ -2,19 +2,20 @@
 layout: about
 title: about
 permalink: /
-subtitle: School of Software, Beihang University
+subtitle: C810 New Main Building, School of Software, Beihang University, 37 Xueyuan Rd. Haidian District
 
 profile:
   align: right
   image: jing.jpg
-  image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>C810 New Main Building</p>
-    <p>37 Xueyuan Rd. Haidian District</p>
-    <p>Beijing, China</p>
+  image_circular: true # crops the image to make it circular
+#  more_info: >
+#    <p>C810 New Main Building</p>
+#    <p>37 Xueyuan Rd. Haidian District</p>
+#    <p>Beijing, China</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
+teaching: true
 social: true # includes social icons at the bottom of the page
 ---
 
