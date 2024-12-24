@@ -245,7 +245,22 @@ volume = {32},
 preview = {2022-tcsvt.png},
 year = {2022}
 }
-
+@article{Tang2022,
+abstract = {Although demonstrating great success, previous multi-view unsupervised feature selection (MV-UFS) methods often construct a view-specific similarity graph and characterize the local structure of data within each single view. In such a way, the cross-view information could be ignored. In addition, they usually assume that different feature views are projected from a latent feature space while the diversity of different views cannot be fully captured. In this work, we resent a MV-UFS model via cross-view local structure preserved diversity and consensus learning, referred to as CvLP-DCL briefly. In order to exploit both the shared and distinguishing information across different views, we project each view into a label space, which consists of a consensus part and a view-specific part. Therefore, we regularize the fact that different views represent same samples. Meanwhile, a cross-view similarity graph learning term with matrix-induced regularization is embedded to preserve the local structure of data in the label space. By imposing the <formula><tex>$l_{2,1}$</tex></formula>-norm on the feature projection matrices for constraining row sparsity, discriminative features can be selected from different views. An efficient algorithm is designed to solve the resultant optimization problem and extensive experiments on six publicly datasets are conducted to validate the effectiveness of the proposed CvLP-DCL.},
+author = {Tang, Chang and Zheng, Xiao and Liu, Xinwang and Zhang, Wei and Zhang, Jing and Xiong, Jian and Wang, Lizhe},
+doi = {10.1109/TKDE.2020.3048678},
+file = {:Users/jingzhang/Documents/buaa/基金项目/个人成果/个人成果原文/2021_Cross-View_Locality_Preserved_Diversity_and_Consensus_Learning_for_Multi-View_Unsupervised_Feature_Selection.pdf:pdf},
+issn = {15582191},
+journal = {IEEE Transactions on Knowledge and Data Engineering},
+keywords = {Multi-view unsupervised feature selection,cross-view similarity graph,diversity and consensus learning,feature projection,local structure preservation},
+number = {10},
+pages = {4705--4716},
+publisher = {IEEE},
+title = {{Cross-view Locality Preserved Diversity and Consensus Learning for Multi-view Unsupervised Feature Selection}},
+volume = {34},
+preview = {2021-tkde.png},
+year = {2022}
+}
 
 @inproceedings{Wang2022,
 abstract = {Point cloud registration aims at estimating the geometric transformation between two point cloud scans, in which point-wise correspondence estimation is the key to its success. In addition to previous methods that seek correspondences by hand-crafted or learnt geometric features, recent point cloud registration methods have tried to apply RGB-D data to achieve more accurate correspondence. However, it is not trivial to effectively fuse the geometric and visual information from these two distinctive modalities, especially for the registration problem. In this work, we propose a new Geometry-Aware Visual Feature Extractor (GAVE) that employs multi-scale local linear transformation to progressively fuse these two modalities, where the geometric features from the depth data act as the geometry-dependent convolution kernels to transform the visual features from the RGB data. The resultant visual-geometric features are in canonical feature spaces with alleviated visual dissimilarity caused by geometric changes, by which more reliable correspondence can be achieved. The proposed GAVE module can be readily plugged into recent RGB-D point cloud registration framework. Extensive experiments on 3D Match and ScanNet demonstrate that our method outperforms the state-of-the-art point cloud registration methods even without correspondence or pose supervision. The code is available at: https://github.com/514DNA/LLT.},
