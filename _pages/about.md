@@ -7,7 +7,7 @@ subtitle: C810 New Main Building, School of Software, Beihang University, 37 Xue
 profile:
   align: right
   image: jing.jpg
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
 #  more_info: >
 #    <p>C810 New Main Building</p>
 #    <p>37 Xueyuan Rd. Haidian District</p>
