@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One paper is accepted at TOMM!
+One paper has been accepted at TOMM!
