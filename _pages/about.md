@@ -2,8 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: School of Software, Beihang University
-C810 New Main Building, 37 Xueyuan Rd, Haidian District, Beijing, China
+subtitle: School of Software, Beihang University \ C810 New Main Building, 37 Xueyuan Rd, Haidian District, Beijing, China
 
 profile:
   align: right
