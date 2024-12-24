@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: [School of Software, Beihang University](https://soft.buaa.edu.cn/), C810 New Main Building, 37 Xueyuan Rd, Haidian District, Beijing, China
+subtitle: [School of Software,Beihang University](https://soft.buaa.edu.cn/), C810 New Main Building, 37 Xueyuan Rd, Haidian District, Beijing, China
 
 profile:
   align: right
@@ -15,7 +15,7 @@ profile:
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
-teaching: true
+teaching: true # includes teaching
 social: true # includes social icons at the bottom of the page
 ---
 
