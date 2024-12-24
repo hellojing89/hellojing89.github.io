@@ -10,5 +10,6 @@ nav_order: 6
 Undergraduate Courses:
 - Artifitial Intelligence (2022~)
 - Technical Writing (2021~)
+
 Postgraduate Courses:
 - Pattern Recognition (2020~)
