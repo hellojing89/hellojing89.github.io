@@ -51,22 +51,23 @@ year = {2024},
 preview = {2024-acmmm.png},
 selected = {true}
 }
-@article{Tang2024,
+
+@inproceedings{Tang2024,
 abstract = {Deep learning models have the ability to extract rich knowledge from large-scale datasets. However, the sharing of data has become increasingly challenging due to concerns regarding data copyright and privacy. Consequently, this hampers the effective transfer of knowledge from existing data to novel downstream tasks and concepts. Zero-shot learning (ZSL) approaches aim to recognize new classes by transferring semantic knowledge learned from base classes. However, traditional generative ZSL methods often require access to real images from base classes and rely on manually annotated attributes, which presents challenges in terms of data restrictions and model scalability. To this end, this paper tackles a challenging and practical problem dubbed as data-free zero-shot learning (DFZSL), where only the CLIP-based base classes data pre-trained classifier is available for zero-shot classification. Specifically, we propose a generic framework for DFZSL, which consists of three main components. Firstly, to recover the virtual features of the base data, we model the CLIP features of base class images as samples from a von Mises-Fisher (vMF) distribution based on the pre-trained classifier. Secondly, we leverage the text features of CLIP as low-cost semantic information and propose a feature-language prompt tuning (FLPT) method to further align the virtual image features and textual features. Thirdly, we train a conditional generative model using the well-aligned virtual image features and corresponding semantic text features, enabling the generation of new classes features and achieve better zero-shot generalization. Our framework has been evaluated on five commonly used benchmarks for generalized ZSL, as well as 11 benchmarks for the base-to-new ZSL. The results demonstrate the superiority and effectiveness of our approach. Our code is available in https://github.com/ylong4/DFZSL.},
 author = {Tang, Bowen and Zhang, Jing and Yan, Long and Yu, Qian and Sheng, Lu and Xu, Dong},
+booktitle = {Proceedings of the AAAI Conference on Artificial Intelligence},
 doi = {10.1609/aaai.v38i6.28316},
 file = {:Users/jingzhang/Documents/buaa/基金项目/个人成果/个人成果原文/2024_Data-Free Generalized Zero-Shot Learning.pdf:pdf},
 issn = {23743468},
-journal = {Proceedings of the AAAI Conference on Artificial Intelligence},
-keywords = {Computer Vision(CV): CV: Language and Vision,Computer Vision(CV): CV: Learning & Optimization for CV,Computer Vision(CV): CV: Multi-modal Vision,Computer Vision(CV): CV: Object Detection & Categorization,Computer Vision(CV): CV: Representation Learning for Vision},
+keywords = {Computer Vision(CV): CV: Language and Vision,Computer Vision(CV): CV: Learning & Optimization f,Computer Vision(CV): CV: Multi-modal Vision,Computer Vision(CV): CV: Object Detection & Catego,Computer Vision(CV): CV: Representation Learning f},
 number = {6},
 pages = {5108--5117},
 title = {{Data-Free Generalized Zero-Shot Learning}},
 volume = {38},
-year = {2024},
 preview = {2024-aaai-zero.png},
-selected = {true}
+year = {2024}
 }
+
 
 @inproceedings{Li2024a,
 abstract = {3D point cloud semantic segmentation has a wide range of applications. Recently, weakly supervised point cloud segmentation methods have been proposed, aiming to alleviate the expensive and laborious manual annotation process by leveraging scene-level labels. However, these methods have not effectively exploited the rich geometric information (such as shape and scale) and appearance information (such as color and texture) present in RGB-D scans. Furthermore, current approaches fail to fully leverage the point affinity that can be inferred from the feature extraction network, which is crucial for learning from weak scene-level labels. Additionally, previous work overlooks the detrimental effects of the long-tailed distribution of point cloud data in weakly supervised 3D semantic segmentation. To this end, this paper proposes a simple yet effective scene-level weakly supervised point cloud segmentation method with a newly introduced multi-modality point affinity inference module. The point affinity proposed in this paper is characterized by features from multiple modalities (e.g., point cloud and RGB), and is further refined by normalizing the classifier weights to alleviate the detrimental effects of long-tailed distribution without the need of the prior of category distribution. Extensive experiments on the ScanNet and S3DIS benchmarks verify the effectiveness of our proposed method, which outperforms the state-of-the-art by ∼ 4% to ∼ 6% mIoU. Codes are released at https://github.com/Sunny599/AAAI24-3DWSSG-MMA.},
