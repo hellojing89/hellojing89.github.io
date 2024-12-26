@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One paper has been accepted at TOMM!
+One paper has been accepted at [TOMM](https://dl.acm.org/journal/tomm)!
